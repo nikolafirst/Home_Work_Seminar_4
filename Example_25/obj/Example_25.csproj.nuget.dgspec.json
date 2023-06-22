@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj": {}
+    "C:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj": {}
   },
   "projects": {
-    "c:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj": {
+    "C:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj",
+        "projectUniqueName": "C:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj",
         "projectName": "Example_25",
-        "projectPath": "c:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj",
+        "projectPath": "C:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\Example_25.csproj",
         "packagesPath": "C:\\Users\\karasev.n\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\obj\\",
+        "outputPath": "C:\\Users\\karasev.n\\Desktop\\Project\\HomeWorkSeminar4\\Example_25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karasev.n\\AppData\\Roaming\\NuGet\\NuGet.Config"
